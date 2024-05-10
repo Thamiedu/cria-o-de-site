@@ -30,7 +30,7 @@ ul{
 cabecalho-logo {
     display: flex;
     justify-content: left;
-    width: 20px;
-    padding: 10%;
-    margin: 0%;
+    width: 200px;
+    padding: 100%;
+    margin: 330%;
 }
