@@ -1,0 +1,36 @@
+body{
+    color: white;
+    background: linear-gradient(rgb(255, 166, 0), rgb(248, 120, 1) );
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 98%;
+    margin: 15px%;
+    font-size: 200%
+}
+h2{
+    display: flex;
+    justify-content: left;
+    padding: 2%;
+    margin: 15px%;
+   
+}
+
+ul{ 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25%;
+    font-size: 180%;
+}
+
+
+cabecalho-logo {
+    display: flex;
+    justify-content: left;
+    width: 200px;
+    padding: 10%;
+    margin: 0%;
+}
